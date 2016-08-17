@@ -1,0 +1,59 @@
+//$("#main").append("Joshua Kramer");
+
+// var firstName = "james";
+
+//var age = 32;
+
+//console.log(firstName);
+
+// var awesomeThoughts = "My name is Josh and I am AWESOME!!";
+
+//var funThoughts = awesomeThoughts.replace("AWESOME", "FUN");
+
+// $("#main").append(funThoughts);
+
+//var name = "Joshua Kramer";
+
+//var formattedName = HTMLheaderName.replace("%data%", name);
+
+//var role = "Web Developer";
+
+//var formattedRole = HTMLheaderRole.replace("%data%", role);
+
+//$("#header").prepend(formattedRole);
+
+//$("#header").prepend(formattedName);
+
+//var skills = ["Web Development", "HTML", "CSS", "Python", "JavaScript"];
+
+//$("#main").append(skills);
+
+//$("#main").append(skills[0]);
+
+var bio = {
+	"name" : "Joshua Kramer",
+	"role" : "Web Developer", 
+	"contacts" : {
+		"mobile" : "954-263-9330",
+		"email" : "jkramer13@att.net",
+		"github" : "jkramer13",
+		"location" : "Boca Raton"
+	},
+	"welcomeMessage" : "Welcome to My Resume!",
+	"skills" : [
+		"Web Development", "HTML", "CSS", "Python", "JavaScript"
+	],
+	"bioPic" : "images/app2.png"
+};
+
+
+
+
+
+
+
+
+
+
+
+
